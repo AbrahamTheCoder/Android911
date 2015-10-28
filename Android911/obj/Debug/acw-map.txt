@@ -1,0 +1,4 @@
+Android911.MainActivity, Android911;md5ec32af74ac8c0eb9d50302c227b7bd1b.MainActivity
+Android911.MainActivity, Android911, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5ec32af74ac8c0eb9d50302c227b7bd1b.MainActivity
+Android911.MainActivity;md5ec32af74ac8c0eb9d50302c227b7bd1b.MainActivity
+android911.MainActivity;md5ec32af74ac8c0eb9d50302c227b7bd1b.MainActivity

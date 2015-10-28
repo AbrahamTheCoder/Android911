@@ -1,0 +1,13 @@
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.pdb
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.Android911.apk
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.Android911-Signed.apk
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.pdb
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\android\bin\Android911.Android911.apk
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\layout\main.xml
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\values\strings.xml
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\drawable\icon.png
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\R.cs.flag
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\uploadflags.txt
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.csprojResolveAssemblyReference.cache

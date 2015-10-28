@@ -1,0 +1,12 @@
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\Android911.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\mscorlib.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Core.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Data.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Data.Services.Client.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Xml.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Xml.Linq.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\Mono.Data.Tds.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\Mono.Security.dll
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\assemblies\System.Transactions.dll
