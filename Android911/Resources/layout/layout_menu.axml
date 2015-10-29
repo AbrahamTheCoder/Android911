@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="100">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="25"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout1"
+        android:padding="0dp">
+        <ImageView
+            android:src="@drawable/broadcast"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView1" />
+        <TextView
+            android:text="Noticias"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView1"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="25"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout2"
+        android:padding="0dp">
+        <ImageView
+            android:src="@drawable/bulb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView2" />
+        <TextView
+            android:text="Tips"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView2"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="25"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout3"
+        android:padding="0dp">
+        <ImageView
+            android:src="@drawable/ticket"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView3" />
+        <TextView
+            android:text="Tickets"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_weight="25"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:id="@+id/linearLayout4"
+        android:padding="0dp">
+        <ImageView
+            android:src="@drawable/settings2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView4" />
+        <TextView
+            android:text="Configuración"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView4"
+            android:gravity="center_horizontal" />
+    </LinearLayout>
+</LinearLayout>
