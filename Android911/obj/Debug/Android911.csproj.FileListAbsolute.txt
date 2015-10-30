@@ -2,7 +2,6 @@ C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bi
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.pdb
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.Android911.apk
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\bin\Debug\Android911.Android911-Signed.apk
-C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.csprojResolveAssemblyReference.cache
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.dll
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.pdb
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\android\bin\Android911.Android911.apk
@@ -15,5 +14,11 @@ C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\ob
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\drawable\settings2.png
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\drawable\ticket.png
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\drawable\broadcast.png
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\values\theme.xml
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\R.cs.flag
 C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\uploadflags.txt
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\Android911.csprojResolveAssemblyReference.cache
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\drawable\selectors.xml
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\layout\layout_configuracion.xml
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\layout\layout_tips.xml
+C:\Users\aramirez\Documents\Visual Studio 2015\Projects\Android911\Android911\obj\Debug\res\layout\layout_tickets.xml

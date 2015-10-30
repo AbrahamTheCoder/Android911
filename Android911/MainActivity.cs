@@ -2,11 +2,12 @@
 using Android.App;
 using Android.Widget;
 using Android.OS;
+using Android.Views.Animations;
 using System.Data.SqlClient;
 
 namespace Android911
 {
-    [Activity(Label = "Android911", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Android911", MainLauncher = true, Icon = "@drawable/icon", Theme = "@style/CustomBarTheme")]
     public class MainActivity : Activity
     {
         int count = 1;
@@ -15,6 +16,10 @@ namespace Android911
         {
             base.OnCreate(bundle);
 
+            ActionBar.SetDisplayShowHomeEnabled(false);
+            ActionBar.SetDisplayShowTitleEnabled(false);
+            ActionBar.SetCustomView(Resource.Layout.layout_menu);
+            ActionBar.SetDisplayShowCustomEnabled(true);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
 
@@ -25,6 +30,19 @@ namespace Android911
             EditText txtto = FindViewById<EditText>(Resource.Id.txtTo);
             EditText txtmessage = FindViewById<EditText>(Resource.Id.txtmessage);
             EditText txtobj = FindViewById<EditText>(Resource.Id.txtobj);
+            LinearLayout selectorConfig = FindViewById<LinearLayout>(Resource.Id.Layout_Config);
+            LinearLayout selectorNews = FindViewById<LinearLayout>(Resource.Id.Layout_News);
+            LinearLayout selectorTips = FindViewById<LinearLayout>(Resource.Id.Layout_Tips);
+            LinearLayout selectorTicket = FindViewById<LinearLayout>(Resource.Id.Layout_Ticket);
+
+
+
+            selectorConfig.FocusChange += SelectorConfig_Click;
+            selectorTips.FocusChange += SelectorTips_Click;
+            selectorTicket.FocusChange += SelectorTicket_Click;
+
+            selectorNews.FocusChange += SelectorNews_Click;
+
 
             button.Click += delegate
             {
@@ -48,6 +66,26 @@ namespace Android911
             };
         }
 
+        private void SelectorTicket_Click(object sender, EventArgs e)
+        {
+            SetContentView(Resource.Layout.layout_tickets);
+        }
+
+        private void SelectorTips_Click(object sender, EventArgs e)
+        {
+            SetContentView(Resource.Layout.layout_tips);
+        }
+
+        
+        private void SelectorConfig_Click(object sender, EventArgs e)
+        {
+            SetContentView(Resource.Layout.layout_configuracion);
+        }
+
+        private void SelectorNews_Click(object sender, EventArgs e)
+        {
+            SetContentView(Resource.Layout.Main);
+        }
 
         void SimpleDialog(object sender, EventArgs e)
         {
